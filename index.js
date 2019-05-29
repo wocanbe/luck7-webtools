@@ -1,0 +1,4 @@
+/*!
+* Copyright 584069777@qq.com 2019.
+*/
+define(["luck7-webtools/auth","luck7-webtools/bom","luck7-webtools/cache","luck7-webtools/cookie","luck7-webtools/dom","luck7-webtools/encoder","luck7-webtools/encrypt","luck7-webtools/eventdom","luck7-webtools/mock","luck7-webtools/pinyin","luck7-webtools/store"],function(e,t,o,l,u,a,r,d,s,c,n){"use strict";return{auth:e=e&&e.hasOwnProperty("default")?e.default:e,bom:t=t&&t.hasOwnProperty("default")?t.default:t,cache:o=o&&o.hasOwnProperty("default")?o.default:o,cookie:l=l&&l.hasOwnProperty("default")?l.default:l,dom:u=u&&u.hasOwnProperty("default")?u.default:u,encoder:a=a&&a.hasOwnProperty("default")?a.default:a,encrypt:r=r&&r.hasOwnProperty("default")?r.default:r,eventdom:d=d&&d.hasOwnProperty("default")?d.default:d,mock:s=s&&s.hasOwnProperty("default")?s.default:s,pinyin:c=c&&c.hasOwnProperty("default")?c.default:c,store:n=n&&n.hasOwnProperty("default")?n.default:n}});

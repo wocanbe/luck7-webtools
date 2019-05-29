@@ -1,0 +1,47 @@
+{
+  "name": "luck7-webtools",
+  "author": "584069777@qq.com",
+  "license": "ISC",
+  "version": "0.2.0",
+  "keywords": [
+    "auth",
+    "sessionStorage",
+    "localStorage",
+    "cookie",
+    "encrypt"
+  ],
+  "description": "Some tools for web project",
+  "files": [
+    "libs"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "peerDependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "fs-extra": "^6.0.1",
+    "rollup": "^0.66.0",
+    "rollup-pluginutils": "^1.5.2",
+    "rollup-plugin-babel": "^3.0.4",
+    "rollup-plugin-uglify": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wocanbe/luck7-web-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wocanbe/luck7-web-tools.git/issues"
+  },
+  "homepage": "https://github.com/wocanbe/luck7-web-tools.git#readme"
+}
