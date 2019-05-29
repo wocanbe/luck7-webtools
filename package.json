@@ -8,7 +8,11 @@
     "sessionStorage",
     "localStorage",
     "cookie",
-    "encrypt"
+    "decoder",
+    "encoder",
+    "encrypt",
+    "mock",
+    "pinyin"
   ],
   "description": "Some tools for web project",
   "files": [
@@ -38,10 +42,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wocanbe/luck7-web-tools.git"
+    "url": "git+https://github.com/wocanbe/luck7-webtools.git"
   },
   "bugs": {
-    "url": "https://github.com/wocanbe/luck7-web-tools.git/issues"
+    "url": "https://github.com/wocanbe/luck7-webtools.git/issues"
   },
-  "homepage": "https://github.com/wocanbe/luck7-web-tools.git#readme"
+  "homepage": "https://github.com/wocanbe/luck7-webtools.git#readme"
 }
